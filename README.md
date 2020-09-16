@@ -29,3 +29,7 @@ Le but de ce TP est de vous faire découvrir, pour certains, le monde du web alo
 ## Première étape:
 Vous forkez ce repository et vous commencez à travailler sur votre copie. Si vous avez des doutes demandez à votre professeur il est la pour ça. 
 Vous modifiez votre readme et vous y incorporez **votre prénom, votre nom et votre TD**.
+
+Arthur 
+Saint Martin 
+TD 02 A
