@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="Home">
     <Menuflottant />
     <TopPage nom="Arthur Saint Martin" description="Jeune entrepreneur à suivre 😁"/>
     <CvCarousel />
