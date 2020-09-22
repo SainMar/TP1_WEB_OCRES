@@ -1,4 +1,5 @@
 <template>
+<div class="cv">
     <agile>
         <div class="slide">
             <SlideCarousel titre1="EXPERIENCE PRO" titre2="EXPERIENCE PRO" titre3="EXPERIENCE PRO"/>
@@ -10,6 +11,7 @@
              <SlideCarousel titre1="EDUCATION" titre2="EDUCATION" titre3="EDUCATION"/>
         </div>
     </agile>
+</div>
 </template>
 
 <script>
@@ -26,3 +28,6 @@ export default {
 }
 
 </script>
+<style scoped>
+
+</style>
